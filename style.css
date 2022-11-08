@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+}
+
+.box1 {
+    background: url(/images/img1.jpg);
+    height: 350px;
+    width: 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+.box2 {
+    background: url(/images/img2.jpg);
+    height: 350px;
+    width: 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+.box3 {
+    background: url(/images/img3.jpg);
+    height: 350px;
+    width: 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.hhh {
+    background: red;
+    margin-top: 360px;
+    position: absolute;
+    font-size: 40px;
+    padding: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    color: #E7FFC0;
+}
